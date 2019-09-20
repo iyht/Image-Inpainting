@@ -6,7 +6,7 @@
 ![output](./results/output.png)
 
 ![golf.jpg](./test_images/golf.jpg)
-![golf-mask](./test_images/golf-mask.png)
+![golf-mask](./test_images/golf-mask.pgm)
 ![output](./results/golf_result.png)
 
 ![lake.jpg](./test_images/lake.jpg)
